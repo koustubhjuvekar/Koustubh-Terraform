@@ -4,7 +4,7 @@
   <summary>🚀 Terraform Installation</summary><br>
 
   <details>
-    <summary>&nbsp;&nbsp;1️⃣ Installation of Terraform on EC2</summary>
+    <summary><t>1️⃣ Installation of Terraform on EC2</summary>
     
     - Step 1: Update the package list  
       ```bash
