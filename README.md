@@ -11,8 +11,8 @@
            <img width="884" height="469" alt="image" src="https://github.com/user-attachments/assets/dcc1f302-9a71-49c6-abff-d9a9567f6d26" />
     <img width="978" height="266" alt="image" src="https://github.com/user-attachments/assets/854d3996-970d-4d58-8409-28c47c55609d" />
 
+
   </details>
-  ![357408](https://github.com/user-attachments/assets/42835e1b-49ab-4e41-a6b4-1574f33f5e93)
 
   <details>
     <summary>2️⃣ Installation of Terraform on Visual Studio Code</summary><br>
