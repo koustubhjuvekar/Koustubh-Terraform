@@ -1,7 +1,7 @@
-# 📘 My Guide
+# 📘 Terraform - My Guide
 
 <details>
-  <summary>🚀 Terraform Installation</summary>
+  <summary>🚀 Terraform Installation</summary><br>
 
   <details>
     <summary>1️⃣ Installation of Terraform on EC2</summary>
